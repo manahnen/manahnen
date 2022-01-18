@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @manahnen
+- 👀 I’m interested in RPA, C#, Networking, and Data
+- 🌱 I’m currently learning C# and Powershell
